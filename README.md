@@ -106,7 +106,7 @@ As shown in the above image:
 
 
 <h1 align="center"> Summary of Analysis</h1>
-All models used to perform credit risk analysis are weak when determining if a credit risk is high or not. The best option is the Easy Ensemble Classifier model with a Recall of 91%, detecting almost all "high risk" credit. Having said that, with a low precision a lot of low risk credits could be falsely identified as high risk which could hurt a banks revenues by missing out on those business opportunities.  It is tough to recommend any of these machine learning models to a bank due to their low precision percentages.
+All models used to perform credit risk analysis are weak when determining if a credit risk is high or not. The best option is the Easy Ensemble Classifier model with a Recall of 91%, detecting almost all "high risk" credit. Having said that, with a low precision a lot of low risk credits could be falsely identified as high risk which could hurt a banks revenues by missing out on those business opportunities.  It is tough to recommend any of these machine learning models to a lender due to their low precision percentages, potentionally resulting in lost revenue. 
 
 
 
